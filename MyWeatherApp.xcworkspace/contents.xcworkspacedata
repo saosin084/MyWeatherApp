@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:/Users/yuta/develop/swift_weatherApp/MyWeatherApp/ViewController.swift">
+   </FileRef>
+   <FileRef
       location = "group:MyWeatherApp.xcodeproj">
    </FileRef>
    <FileRef
